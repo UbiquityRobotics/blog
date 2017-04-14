@@ -1,0 +1,24 @@
+baseURL = "https://blog.ubiquityrobotics.com/"
+languageCode = "en-us"
+title = "Ubiquity Robotics Blog"
+googleAnalytics = "UA-58668938-1"
+
+
+[Author]
+  name = "Ubiquity Robotics"
+  email = "contact@ubiquityrobotics.com"
+  github = "UbiquityRobotics"
+  twitter = "UbiquityR"
+
+[[menu.main]]
+    name = "Back to Website"
+    url = "https://ubiquityrobotics.com"
+    weight = 3
+
+[Params]
+  logo = "img/logo.png"
+  favicon = "img/favicon.png"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
