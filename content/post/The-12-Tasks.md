@@ -5,7 +5,7 @@ title = "The 12 Tasks of Hercules"
 author = "Rohan Agrawal"
 
 +++
-While building Hercules (which became Magni)  we came up with a way to measure and track the progress of the robot, we called them the 12 Tasks of Hercules based on [The 12 Labors of Hercules from Greek mythology](https://www.google.com/search?q=the%2012%20labors%20of%20hercules&rct=j). The idea was that we would create a list of challenges that we would like the robot to complete, and whoever was the first one to get the robot to complete the challenge would get some kind of prize based on what the challenge was.
+While building Hercules (now called Magni)  we came up with a way to measure and track the progress of the robot, we called them the 12 Tasks of Hercules based on [The 12 Labors of Hercules from Greek mythology](https://www.google.com/search?q=the%2012%20labors%20of%20hercules&rct=j). The idea was that we would create a list of challenges that we would like the robot to complete, and whoever was the first one to get the robot to complete the challenge would get some kind of prize based on what the challenge was.
 
 With no further ado here are the 12 Tasks of Hercules:
 
