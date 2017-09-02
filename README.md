@@ -16,7 +16,7 @@ author = "Your Name"
 ```
 
 # Building
-We use [hugo][https://gohugo.io/] for static site generation.
+We use [hugo][(https://gohugo.io/]) for static site generation.
 
 After installing Hugo, you can build and serve it locally using this command:
 `hugo serve --theme=beautifulhugo --buildDrafts=True`
