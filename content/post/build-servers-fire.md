@@ -13,9 +13,9 @@ After some investigation (and making sure everything/everyone else was not on fi
 I haven't tried spinning up the drive again to verify its deadness, but the main board for the drive looks mostly healthy.
 
 Pictures (sorry about the not great quality, but it was 3AM):
-![alt text](/img/builders-fire/sata.jpg "Sata connector, melted, with big hole in middle")
-![alt text](/img/builders-fire/harddrive.jpg "The hard drive in question.")
-![alt text](/img/builders-fire/charred.jpg "bunch on charred wires around PSU")
-![alt text](/img/builders-fire/plate.jpg "Acrylic plate with melty bits")
+![alt text](https://cdn.ubiquityrobotics.net/blog/img/builders-fire/sata.jpg "Sata connector, melted, with big hole in middle")
+![alt text](https://cdn.ubiquityrobotics.net/blog/img/builders-fire/harddrive.jpg "The hard drive in question.")
+![alt text](https://cdn.ubiquityrobotics.net/blog/img/builders-fire/charred.jpg "bunch on charred wires around PSU")
+![alt text](https://cdn.ubiquityrobotics.net/blog/img/builders-fire/plate.jpg "Acrylic plate with melty bits")
 
 Welp, time to go back to sleep.
