@@ -16,7 +16,7 @@ googleAnalytics = "UA-58668938-1"
     weight = 3
 
 [Params]
-  logo = "img/logo.png"
+  logo = "https://cdn.ubiquityrobotics.net/blog/img/logo_op.png"
   favicon = "img/favicon.png"
   dateFormat = "January 2, 2006"
   commit = false
