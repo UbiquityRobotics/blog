@@ -1,11 +1,10 @@
 +++
-date = "201-09-13T09:00:00"
+date = "2017-09-13T09:00:00"
 draft = false
 title = "Video Play List"
-
 +++
 
-##Video Play List
+## Video Play List
 
 Every once and a while we make videos of our project progeress and post them to YouTube. 
 
