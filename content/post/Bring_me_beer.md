@@ -1,3 +1,9 @@
++++
+date = "2017-09-19T09:00:00"
+draft = false
+title = "Bring Me a Beer"
+author = "Alan Federman"
++++
 
 ## Bring Me a Beer!
 
