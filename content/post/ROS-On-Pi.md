@@ -1,15 +1,10 @@
 +++
-date = "2017-10-13T00:00:00-07:00"
+date = "2015-12-21T00:00:00-07:00"
 draft = false
 title = "ROS on Raspberry Pi 2"
 author = "Rohan Agrawal"
 
 +++
-
-This information below is now out of date. Go to https://ubiquityrobotics.github.io/learn/ for documentation and http://downloads.ubiquityrobotics.com for the latest RPi 3 /ROS Kinetic/Ubuntu 16.04 SD card image. For historical purposes we are maintaining the blog bost originally posted 2015-12-21.
-
-(Original)
-
 As part of our goal to create a low cost robotics platform, we needed to use a low cost compute platform that could run [Robot Operating System](http://www.ros.org/). After trying many different single board computers, including the original Raspberry Pi, we finally settled on the Raspberry Pi 2 (RPi2). The RPi2 uses a ARMv7 architecture (as opposed to ARMv6), which means that it can run Ubuntu. For running ROS indigo on ARM, we needed Ubuntu 14.04. We started with the one described here, [https://wiki.ubuntu.com/ARM/RaspberryPi](https://wiki.ubuntu.com/ARM/RaspberryPi).
 
 Eventually, we grew tired of having to install a set of basic packages, and do some minor reconfiguration every time that we wanted to bring up a new robot, or re-flash a Pi. So we took the script that was used to build the image that we started with, and modified it to add all the packages and configuration that we wanted, including pre-installing ROS as part of the image. This helped us not only by making robot bring-up faster and easier, but also by allowing us to make sure that every robot started as a "clean slate".
