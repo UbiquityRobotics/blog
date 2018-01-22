@@ -25,4 +25,4 @@ The event is on Tuesday 23rd of January 2018, the event will start at 5pm althou
 
 ### Other information
 
-The event is free, just bring a love of robots.
+The event is free, just bring a love of robots. To learn more about Ubiquity Robotics and our robots go to https://ubiquityrobotics.com.
