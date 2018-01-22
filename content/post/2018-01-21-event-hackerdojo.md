@@ -13,7 +13,7 @@ Learn how to build your robot project in hours not months with Ubiquity Robotics
 
 Building robot applications is hard, mainly because you have to spend months and years building something that has payload capability, mobility, navigation and a compute infrastructure and you have to do this before you can even build the cool cocktail waiter application or follow me robot. The hacker dojo gave rise to a group that wanted to solve this problem and they built Magni, a robot based on open source software that has all this working out of the box. 
 
-We are going to talk about the Magni platform, how you can use it, how we got started and how we can all make use of Magni to do the cool things that we want to do. 
+We are going to talk about the Magni platform, how you can use it, how we got started and how we can all make use of Magni to do the cool things that we want to do. We may even touch on our little robot - Loki - as well!
 
 ### Where
 
