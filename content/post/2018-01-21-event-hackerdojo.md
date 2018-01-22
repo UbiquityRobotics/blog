@@ -4,7 +4,7 @@ title = "Ubiquity at The Hacker Dojo"
 author = "David Crawley"
 +++
 
-## Ubiquity Robotics at the Hacker Dojo, Santa Clara, CA on Tuesday 23rd of January 2018
+## Santa Clara, CA on Tuesday 23rd of January 2018
 ### What
 
 Learn how to build your robot project in hours not months with Ubiquity Robotics Magni 
@@ -25,4 +25,5 @@ The event is on Tuesday 23rd of January 2018, the event will start at 5pm althou
 
 ### Other information
 
-The event is free, just bring a love of robots. To learn more about Ubiquity Robotics and our robots go to https://ubiquityrobotics.com.
+The event is free, just bring a love of robots. 
+To learn more about Ubiquity Robotics and our robots go to https://ubiquityrobotics.com.
